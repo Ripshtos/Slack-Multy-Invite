@@ -1,5 +1,5 @@
 # Slack Chanell Multy adder/remover 
-TLDR : Basiclly this code adds/removes the engineer to all the channels you're currently on (** Note the private parameter , i take no responsibilty if you added your engingeer to said private company insider groups **).
+TLDR : Basiclly this code adds/removes the engineer to all the channels you're currently on (** ATTENTION: notice the private parameter , i take no responsibilty if you added your engingeer to said private company insider slack channels **).
 
 Every time a new engineer joins my team, I inevitably end up inviting said engineer to each Slack channel manually. I got tired of this.
 Slack asks for more money after adding said engineer to a group ( for example @support ) so i made a cost effective script for your usage.
